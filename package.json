@@ -9,6 +9,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "formik": "^2.1.5",
     "next": "^9.5.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
